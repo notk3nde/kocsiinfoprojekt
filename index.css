@@ -1,0 +1,22 @@
+.navbar-image {
+    height: 70px !important;
+}
+.heading-replacement-img {
+    height: 2.2rem;
+    margin-bottom: .6rem;
+}
+.electric-sticker {
+    float: right !important;
+    right: 10%;
+    bottom: 2%;
+    position: absolute;
+    height: 60px;
+}
+.nav-link {
+    font-size: 1.5rem;
+}
+.additional-items {
+    border: 2px solid #0d6efd;
+    border-radius: .5rem;
+    background-color: #e3eeff;
+}
